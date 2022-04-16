@@ -1,0 +1,43 @@
+/* This is for the font of the body text*/
+
+.italic {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: normal;
+
+}
+
+.blue {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+.skills {
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.underLine {
+    text-decoration: underline;
+}
+.bold {
+    font-weight:bolder;
+}
+
+.center {
+    text-align:center;
+}
+.gaming {
+    background-image: url('../assets/img/gaming.jpg');
+    background-position: bottom left;
+    background-repeat: repeat;
+}
+.brazil {
+    background-image: url('../assets/img/lawpicture.jpg');
+    background-position: bottom left;
+    background-repeat: repeat;
+}
+
+
